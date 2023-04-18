@@ -1,7 +1,8 @@
  
 
 # Jeu du Morpion
-implémentation simple **en ligne de commande** du jeu classique du Morpion en Python. Le jeu permet à deux joueurs de s'affronter, avec le Joueur 1 utilisant "X" comme marqueur et le Joueur 2 utilisant "O". Le jeu vérifie les conditions de victoire et déclare un gagnant ou un match nul en conséquence.
+
+Implémentation simple **en ligne de commande** du jeu classique du Morpion en Python. Le jeu permet à deux joueurs de s'affronter, avec le Joueur 1 utilisant "X" comme marqueur et le Joueur 2 utilisant "O". Le jeu vérifie les conditions de victoire et déclare un gagnant ou un match nul en conséquence.
 
 ## Comment Jouer? 
 
